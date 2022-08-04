@@ -1,1 +1,1 @@
-[![Hamare](https://img.shields.io/badge/Hamare-Windows-0078D7?style=flat)](https://hamare.cf)
+[![OS](https://img.shields.io/badge/OS-Windows-0078D7?style=flat)]
