@@ -4,5 +4,5 @@
 ![Browser](https://img.shields.io/badge/Browser-Firefox-20123A?style=flat)
 
 ## My Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamare1207&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamare1207&theme=github_dark&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamare1207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
