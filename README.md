@@ -5,4 +5,4 @@
 
 ## My Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamare1207&theme=discord_old_blurple&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamare1207&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamare1207&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
