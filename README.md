@@ -1,6 +1,7 @@
 <div align="center">
 
-_hello, world!_<br>
+🍡 _何かをつくる和菓子好きです。_
+
 [![HAMARE](https://img.shields.io/badge/-hamare-BE1E3E?style=flat&logo=github&logoColor=white)](https://github.com/badges/shields)
 
 </div>
