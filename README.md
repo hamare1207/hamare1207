@@ -10,7 +10,7 @@
 
 </div>
 
-## My Profile
+## 🔖 My Profile
 <div align="center">
 
 [![PC](https://img.shields.io/badge/PC-Celeron-0071C5?style=flat&logo=intel&logoColor=white)](https://github.com/badges/shields)
@@ -18,6 +18,6 @@
 [![BR](https://img.shields.io/badge/BROWSER-Firefox-20123A?style=flat&logo=firefoxbrowser&logoColor=white)](https://github.com/badges/shields)
 [![AU](https://img.shields.io/badge/SOFT-AviUtl-000000?style=flat)](https://github.com/badges/shields)
 <br>
-[![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hamare1207&bg_color=00000000&hide_border=true&locale=ja&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hamare1207&bg_color=00000000&hide_border=true&locale=ja&layout=compact&card_width=400&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
