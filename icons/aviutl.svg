@@ -7,9 +7,9 @@
     </clipPath>
   </defs>
   <style>
-    path { fill: blue;}
+    path { fill: black;}
     @media (prefers-color-scheme: dark) {
-    path { fill: white;}
+    path { fill: gray;}
     }
   </style>
   <g clip-path="url(#_clipPath_jVPpW8krKHwlOabM6CnZIkv8EI8ditLD)">
