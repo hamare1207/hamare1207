@@ -7,7 +7,7 @@
     </clipPath>
   </defs>
   <style>
-    path { fill: black;}
+    path { fill: #222;}
     @media (prefers-color-scheme: dark) {
     path { fill: white;}
     }
