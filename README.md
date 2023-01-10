@@ -14,7 +14,7 @@
 <div align="center">
 
 [![PC](https://img.shields.io/badge/PC-Celeron-0071C5?style=flat&logo=intel&logoColor=white)](https://github.com/badges/shields)
-[![OS](https://img.shields.io/badge/OS-Windows10-0078D7?style=flat&logo=windows&logoColor=white)](https://github.com/badges/shields)
+[![OS](https://img.shields.io/badge/OS-Windows10-0078D7?style=flat&logo=windows&logoColor=white)](https://github.com/badges/shields)  
 [![BR](https://img.shields.io/badge/BROWSER-Firefox-20123A?style=flat&logo=firefoxbrowser&logoColor=white)](https://github.com/badges/shields)
 [![AU](https://img.shields.io/badge/SOFT-AviUtl-000000?style=flat)](https://github.com/badges/shields)
 <br>
